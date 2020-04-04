@@ -2,11 +2,11 @@
     "games": [
         {
             "id": 1,
-            "name":"Game 1",
-            "date":"2020-02-12",
-            "description":"First game to try it out",
+            "name":"Sat in quaranrine",
+            "date":"2020-04-04",
+            "description":"First game with C",
             "winner": "Alex H",
-            "loser": "Alex D"
+            "loser": "Courtney
         }
     ]
 }

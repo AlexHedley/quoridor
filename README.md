@@ -1,22 +1,11 @@
-# pucket
+#Quoridor
 
-pucket
+- [Site](https://alexhedley.github.io/quoridor)
 
-- [Site](http://alexhedley.github.io/pucket/)
+https://en.m.wikipedia.org/wiki/Quoridor
 
-You can purchase this from etGames: https://etgames.co.uk/product/pucket/
+https://boardgamegeek.com/boardgame/624/quoridor
 
-There's an expansion pack: https://etgames.co.uk/product/awkward-puck-extension-pack/
+https://en.gigamic.com/game/quoridor
 
-## PUCKET
-
-### FINGER FLICKING FUN FOR NEARLY EVERYONE
-
-Pucket is a frantic dexterity game. Players race each other to catapult the pucks from their side of the board through a small hole leading to the other side. There are no turns and any pucks that arrive on your side must be sent back before you win. Pucket games are hand-crafted in India from sheesham wood. 54 x 40cm.
-
-## AWKWARD PUCKET EXTENSION PACK
-
-### FINGER FLICKING AWKWARDNESS FOR NEARLY EVERYONE
-THE AWKWARD PUCK EXTENSION PACK FEATURES DASTARDLY SHAPED PUCKS THAT REQUIRE SPECIAL TECHNIQUES TO FIT THROUGH THE HOLE. WE FIND IT ADDS A WHOLE NEW LEVEL OF COMEDY STRESSFUL-NESS TO PUCKET MATCHES.
-
-The Awkward pucks include: the flying saucer, whose rounded edges cause it to fly up when fired; the fatboy, who only just fits through the gate; the wedgie, specially shaped to wedge under the elastic on the other side; the long face, who only fits through longways; the crab’s claw, that must be fired wrist-first; the two timer, which forces you to get two pucks through at once; and the lopsidewinder, whose embedded weight makes it swerve off to one side. The pack includes two of each kind of puck plus instructions.
+Quoridor is a must among strategy games. Its rules are amazingly simple: just make it through the labyrinths your opponent creates to get to the other side. This game requires strategy and quick thinking for two players and offers a load of fun for four... Both occasional and expert players from around the world recognize the fun and exceptional strategic aspects of Quoridor.
