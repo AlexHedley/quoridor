@@ -1,4 +1,6 @@
-#Quoridor
+# Quoridor
+
+![Quoridor](images/quoridor_2.webp "Quoridor")
 
 - [Site](https://alexhedley.github.io/quoridor)
 
